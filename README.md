@@ -3,6 +3,8 @@
 A modern and fully responsive **Movie Explorer App** built with **React.js**, inspired by the amazing tutorial from **JavaScript Mastery**.  
 This project helped me practice **component architecture**, **reusable UI patterns**, **API integration**, and modern **React workflows**.
 
+[Demo](https://github.com/user-attachments/assets/73b2e525-6958-4e02-ba84-5407b82f2015)
+
 ---
 
 ## 🏷️ Tech Badges
