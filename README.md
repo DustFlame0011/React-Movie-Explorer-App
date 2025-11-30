@@ -1,16 +1,76 @@
-# React + Vite
+# 🎬✨ Movie Explorer – React Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **Movie Explorer App** built with **React.js**, inspired by the amazing tutorial from **JavaScript Mastery**.  
+This project helped me practice **component architecture**, **reusable UI patterns**, **API integration**, and modern **React workflows**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🏷️ Tech Badges
 
-## React Compiler
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🌟 Core Features
+- 👉 **Browse All Movies** — Explore a wide catalog of movies.
+- 👉 **Search Movies** — Quickly find movies with dynamic search.
+- 👉 **Trending Movies Algorithm** — Shows trending titles from real-time data.
+- 👉 **Modern UI/UX** — Clean layout inspired by industry design systems.
+- 👉 **Responsive Design** — Works smoothly across all devices.
+
+### 🧩 Code Architecture Highlights
+- ♻️ **Reusable Components**
+- 📁 **Organized Project Structure**
+- 🔧 **API utilities & custom hooks**
+- 🧠 **Scalable patterns for beginners learning React**
+- 🎯 **Separation of concerns (UI, logic, utils)**
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Description |
+|-----------|-------------|
+| ⚛️ **React.js** | Component-based UI |
+| 🎨 **Tailwind CSS** | Utility-first styling |
+| 🧭 **React Router** | Page navigation |
+| 🔌 **REST API** | Fetching movie data |
+| 🧱 **Custom Hooks** | Reusable logic |
+| ☁️ **Appwrite** | (Optional) Auth / backend practice |
+
+---
+
+## 📂 Project Structure
+```
+src/
+│── components/ # Reusable UI components
+│── pages/ # Page-level components
+│── hooks/ # Custom React hooks
+│── utils/ # Helper functions
+│── api/ # API calls & config
+│── context/ # State management (optional)
+│── assets/ # Images / icons / static files
+│── App.jsx
+│── main.jsx
+```
+---
+
+## 🎯 What I Learned
+
+* How to structure React apps for scalability
+* Creating reusable & maintainable components
+* Tailwind CSS styling + responsive layouts
+* Fetching & managing API data
+* Improving UI/UX flow & component design
+* Following a professional tutorial and expanding with personal improvements
+
+---
+
+> 💡 **Tutorial Reference:**  
+> GitHub – https://github.com/adrianhajdin  
+> YouTube – [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
